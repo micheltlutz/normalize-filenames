@@ -18,3 +18,9 @@ Program written in Golang that traverses directories and renames files by removi
 ## Run
 
 `go run Normalize.go -dir /Users/myuser/folter_to_run`
+
+
+## TO-Do
+
+- [ ] Unit Test
+- [ ] Code analysis
