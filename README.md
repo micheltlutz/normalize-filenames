@@ -23,7 +23,3 @@ Program written in Golang that traverses directories and renames files by removi
 
 - [ ] Unit Test
 - [ ] Code analysis
-
-
-### PS:
-***this repository is an update of the old -[RenomeiaArquivosGo](https://github.com/micheltlutz/RenomeiaArquivosGo])***
