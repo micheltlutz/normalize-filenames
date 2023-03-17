@@ -4,7 +4,6 @@
   <img src="https://cdn2.hubspot.net/hubfs/3917309/old-assets/old-theme/Images/golang-gopher-laptop.png">
 </p>
 
-
 Program written in Golang that traverses directories and renames files by removing special characters and whitespace
 
 
@@ -17,10 +16,13 @@ Program written in Golang that traverses directories and renames files by removi
 
 ## Run
 
-`go run Normalize.go -dir /Users/myuser/folter_to_run`
+`go run Normalize.go -dir /Users/myuser/folder_to_run`
 
 
-## TO-Do
+## To-Do
 
 - [ ] Unit Test
 - [ ] Code analysis
+
+
+##
